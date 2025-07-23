@@ -27,7 +27,7 @@ Estrutura do projeto
 -   modelo_rf_v3.pkl          → Modelo Random Forest treinado e salvo
 -   scores_contratacao_v3.csv → Base com scores de candidatos
 -   requirements.txt          → Lista de dependências do projeto
-    README.md                 → Documentação geral
+-   README.md                 → Documentação geral
 
 Tecnologias utilizadas
 - Python 3.10+
