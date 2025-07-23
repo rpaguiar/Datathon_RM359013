@@ -23,12 +23,11 @@ A interface foi desenvolvida em Streamlit e permite tomada de decisão visual, s
 
 Estrutura do projeto
 - projeto-ia-recrutamento/
-- │
-- ├── app.py                    → Código do dashboard Streamlit
-- ├── modelo_rf_v3.pkl          → Modelo Random Forest treinado e salvo
-- ├── scores_contratacao_v3.csv → Base com scores de candidatos
-- ├── requirements.txt          → Lista de dependências do projeto
-  └── README.md                 → Documentação geral
+-   app.py                    → Código do dashboard Streamlit
+-   modelo_rf_v3.pkl          → Modelo Random Forest treinado e salvo
+-   scores_contratacao_v3.csv → Base com scores de candidatos
+-   requirements.txt          → Lista de dependências do projeto
+    README.md                 → Documentação geral
 
 Tecnologias utilizadas
 - Python 3.10+
