@@ -22,7 +22,6 @@ A interface foi desenvolvida em Streamlit e permite tomada de decisão visual, s
 
 Link da aplicação (Streamlit)
 Deploy disponível em: https://datathon-rm359013.streamlit.app/
-<sub>💡 Substituir com o link gerado após deploy no Streamlit Cloud</sub>
 
 Estrutura do projeto
 projeto-ia-recrutamento/
